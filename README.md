@@ -1,1 +1,3 @@
-# gousto
+# Pairing session with Gousto
+
+
